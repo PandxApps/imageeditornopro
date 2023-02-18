@@ -1,5 +1,5 @@
 {"publishConfig": {
-  "@PandxApps:registry": "https://npm.pkg.github.com"
+  "@PandxApps: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": "https://npm.pkg.github.com"
 },
   "dependencies": {
     "it": "^1.1.1"
