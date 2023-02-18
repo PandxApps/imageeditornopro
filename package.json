@@ -1,0 +1,32 @@
+{"publishConfig": {
+  "@PandxApps:registry": "https://npm.pkg.github.com"
+},
+  "dependencies": {
+    "it": "^1.1.1"
+  },
+  "name": "imageeditornopro",
+  "description": "![imagee_editor_pro_github](./image_edior_pro.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PandxApps/imageeditornopro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PandxApps/imageeditornopro/issues"
+  },
+  "homepage": "https://github.com/PandxApps/imageeditornopro#readme"
+}
